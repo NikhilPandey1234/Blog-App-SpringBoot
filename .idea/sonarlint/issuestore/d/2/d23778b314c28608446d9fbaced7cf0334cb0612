@@ -1,0 +1,33 @@
+
+	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Î…ü†ıÿÿÿÿ8¯óÑŞî1J$4ad8af0b-eff7-4cbc-9103-d012b8e1ce2e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éè¹º8“ÊüÕî1J$79daa225-a30e-47ca-ab3a-bbf8c1f3c207
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8™ÊüÕî1J$dc050308-8c75-4414-b0e1-faf8b32fa2bb
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8İ˜ÎŞî1J$132a89e6-8c5f-4115-a0be-8785e4e39f07
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8âÎÎŞî1J$d1bf034b-b442-4901-a691-0460a3de734e
+£
+java:S3305*"`Inject this field value directly into "daoAuthenticationProvider", the only method that uses it.(Í„¤¤8›ÊüÕî1J$b95eb11e-c1c2-434c-9b81-da514c701066
+
+java:S3305$"ZInject this field value directly into "securityFilterChain", the only method that uses it.(±Ğ²ş8í²ÏŞî1J$5ef962dc-97c8-4c00-9c83-8e5a99c76aeb
+¢
+java:S3305'"ZInject this field value directly into "securityFilterChain", the only method that uses it.(¸ñÓèüÿÿÿÿ8‡£ ßî1J$a30658ce-ab5d-4055-8708-c9565e1fe4d7
+|
+java:S18746"9Remove this use of "authorizeRequests"; it is deprecated.(šıªÉ8ŸÊüÕî1J$1ac4d8f1-525d-4aa4-bd52-c59ecec9a497
+´
+java:S1130U"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Î…ü†ıÿÿÿÿ8ÀóÑŞî1J$82677baa-0b15-4378-80d8-a2ebaf11304d
+´
+java:S1128"lRemove this unused import 'org.springframework.security.authentication.UsernamePasswordAuthenticationToken'.(ÖÆ„Ùüÿÿÿÿ8ÁóÑŞî1J$ffb34b2b-9f58-4a08-bde1-b647620e4956
+“
+java:S1128"KRemove this unused import 'org.springframework.security.config.Customizer'.(Ïóœ¬ùÿÿÿÿ8ÁóÑŞî1J$449a9756-f0e4-480e-a5e1-94ece0c982bf
+
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8ÁóÑŞî1J$6c48de7e-e0d0-4389-8cfa-c74e89d35b3c
+™
+java:S1128"VRemove this unused import 'org.springframework.security.core.AuthenticationException'.(¤ò›¿8ÁóÑŞî1J$d290f215-9bf1-4a04-b003-933a2ae543c0
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8ÁóÑŞî1J$a9336b7a-fc87-49bc-af94-093102be8242
+
+java:S1128"VRemove this unused import 'org.springframework.security.web.AuthenticationEntryPoint'.(Éªı»ùÿÿÿÿ8ÁóÑŞî1J$46db986f-794d-48f9-8069-a8fa83a8ed86
+¤
+java:S1128"\Remove this unused import 'org.springframework.security.web.csrf.CookieCsrfTokenRepository'.(‰—Şµøÿÿÿÿ8ÁóÑŞî1J$8c9a15ff-165b-41fa-bd1f-a3feeed053d4

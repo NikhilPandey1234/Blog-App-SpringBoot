@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éè¹º8®ŸÁêë1J$2d1c2422-d4fd-4e11-8004-386464a4414c
+y
+java:S6437"6Revoke and change this password, as it is compromised.(úÒæÛ8ÌÀ‘Žî1J$6adb90c5-59a5-425b-bf80-247a981b8fcc
+¥
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8Øß‘Žî1J$ffeeabde-a8c2-4600-b59c-a55e253d8898
+¡
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8Øß‘Žî1J$f0f5280f-2543-4c56-b416-ac0b5e3102fd

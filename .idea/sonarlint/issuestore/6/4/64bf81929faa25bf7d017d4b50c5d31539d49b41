@@ -1,0 +1,25 @@
+
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(´ß‰ßüÿÿÿÿ8¯Žößì1J$4d6fd28a-d8da-4ebe-a403-91d83a86eb5a
+§
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "userDto".(‰°âìøÿÿÿÿ8°Žößì1J$2b664c6b-b218-4282-aff0-51a5135da2f6
+¨
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "category".(‰ÏÌ‹ûÿÿÿÿ8°Žößì1J$9dc2250d-9b4d-43af-8b37-17f56ca95917
+¦
+java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "categoryDto".(ó£¢¶8°Žößì1J$b781ec63-8fd9-4572-8bdd-73784f64bd77
+¤
+java:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "post".(Äì‚›þÿÿÿÿ8°Žößì1J$6bbff23b-aeea-42bc-aef5-d85dc93e1893
+§
+java:S1488+"_Immediately return this expression instead of assigning it to the temporary variable "postDTO".(­çÇèøÿÿÿÿ8°Žößì1J$59a55203-0dc5-42d0-b800-6cacc8fc923f
+£
+java:S14880"`Immediately return this expression instead of assigning it to the temporary variable "comments".(ÊÞ±Á8°Žößì1J$6336ab46-9006-4ae2-a901-f6597b767421
+ª
+java:S14885"bImmediately return this expression instead of assigning it to the temporary variable "commentDTO".(Æ¥Ðúÿÿÿÿ8°Žößì1J$6fe45fb7-f4cf-42f6-8688-cf3462aeb314
+¤
+java:S1488:"\Immediately return this expression instead of assigning it to the temporary variable "role".(ô°§ùÿÿÿÿ8°Žößì1J$70bc3693-cbe4-4d30-8854-8b1707cdc3af
+¢
+java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "roleDTO".(Ž ÅÑ8°Žößì1J$abe9a615-6d52-48bf-ab21-ce931cfdc72f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÊÊ÷þÿÿÿÿ8±Žößì1J$41e05d86-fc33-4285-8ab8-e35a8f81ed55
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8·Žößì1J$a3b3a8a2-2867-4703-928e-4fecbf964a58
+•	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÉý„ýÿÿÿÿ8½Žößì1J$01fafda6-bb25-4275-811e-f07db07af166

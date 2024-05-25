@@ -1,0 +1,8 @@
+
+k
+java:S5411T"(Use a primitive boolean expression here.(ºí¡ø8“Å»∫Ï1J$bcb88344-ffbb-4558-97c2-a367ab2f9bc3
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ë·Ä8Ì∫€ñÏ1J$9be4f44c-7b18-4172-877d-3b49c3af4c26
+~	java:S125"<This block of commented-out lines of code should be removed.(®äÜÿ8⁄¯ŒﬂÓ1J$4307b524-a8a3-4726-bb6d-5d5e19690070
+m	java:S106I"+Replace this use of System.out by a logger.(°õ˙è8ö‹∫óÏ1J$57a1d149-c403-43b5-b778-c183b986a50f
+r	java:S106K"+Replace this use of System.out by a logger.(úû´é¸ˇˇˇˇ8ú‹∫óÏ1J$906b421d-2444-4970-b776-9c058bb917c9
+m	java:S106M"+Replace this use of System.out by a logger.(ÂÑ£Ô8ù‹∫óÏ1J$2b7ac92e-97fe-4e69-93af-fcb814ef5d0e

@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÏªø8®âçÄê1J$5c5d9172-e0b7-4856-8611-085fa73a8fde
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8°âçÄê1J$e82788b0-9463-499d-b0b3-239b03e33916
+
+java:S1128"7Remove this unused import 'org.apache.coyote.Response'.(˜ÊŠşÿÿÿÿ8àµÆê1J$6479a748-926d-4245-b312-2121d8871e69

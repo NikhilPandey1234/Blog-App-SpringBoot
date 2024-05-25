@@ -1,0 +1,7 @@
+
+ï	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú”»∫J$2ddc9071-287d-4087-8e4a-f8ced4302d23
+X	java:S125	"<This block of commented-out lines of code should be removed.(ºº∫¬8µÏÔ≠Ó1
+^
+java:S1128"<Remove this unused import 'jakarta.mail.MessagingException'.(¥ˆ·˘˝ˇˇˇˇ8∂ÏÔ≠Ó1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(™∫ª⁄˝ˇˇˇˇ8∂ÏÔ≠Ó1

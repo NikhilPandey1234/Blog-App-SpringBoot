@@ -1,0 +1,7 @@
+
+
+java:S1488C"ZImmediately return this expression instead of assigning it to the temporary variable "is".(ŠÉæ8Ò¤Éœê1J$fed01490-d4b6-4243-9e31-bea45cf1b357
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜«ñ¶8âŒÂœê1J$174ad1a8-2c0c-4b0f-975d-74afeae69e25
+Š
+java:S22592"BA "NullPointerException" could be thrown; "name" is nullable here.(÷€Ï·üÿÿÿÿ8÷ôÚÜî1J$0d64feae-abbc-45b6-a316-7b33ef1f71ca
+~	java:S125"<This block of commented-out lines of code should be removed.(×ˆ…8¡ÜÕÜî1J$d01783e0-77d0-4678-b541-d8e5fdfdc8a2

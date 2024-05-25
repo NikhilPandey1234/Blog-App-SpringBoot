@@ -1,0 +1,12 @@
+
+Ÿ
+java:S1104""WMake authorities a static final constant or non-public and provide accessors if needed.(±»ó‡ûÿÿÿÿ8³”ïºì1J$76e8cf22-1ff5-44f5-8b68-e3a8a78a5233
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š«ÅãÿÿÿÿÿJ$addaeeba-d3bb-4f30-8025-4e38795e72a8
+ª
+java:S4165&"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8âõºì1J$e4069e78-0288-4994-a7dc-29f3cb701c7c
+p
+java:S1948""(Make "authorities" private or transient.(±»ó‡ûÿÿÿÿ8çÒîºì1J$02212fa6-0b85-418c-8dbb-4f5a04095228
+•
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš8€èòºì1J$ca2895a1-a153-4743-8699-09dc543ee9d3
+w
+java:S1656&"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8êõºì1J$2448933b-91bf-4984-8e98-c8720d5c529f

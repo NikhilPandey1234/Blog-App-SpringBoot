@@ -1,0 +1,12 @@
+
+¥
+java:S1192""bDefine a constant instead of duplicating this literal "Category not found with this id :" 3 times.( ¢î8×—Ü‰æ1J$a1198431-e135-4ceb-bfd2-841fcfcdfb3e
+§
+java:S1488&"dImmediately return this expression instead of assigning it to the temporary variable "categoryDTO1".(šåä÷8Ø—Ü‰æ1J$a8a0a783-30de-4600-b09d-7d0b8436de2b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜«ñ¶8Ù—Ü‰æ1J$2538a028-b7ca-4a7d-9d24-be7a910d512f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8â—Ü‰æ1J$06a3e833-addd-434d-8040-7f71c597add7
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8â—Ü‰æ1J$20a6f81e-af4d-414a-8de7-d1bfd4738253
+š
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(÷îşúÿÿÿÿ8ç—Ü‰æ1J$58d33072-aa06-40a1-95c4-066a8d54f036

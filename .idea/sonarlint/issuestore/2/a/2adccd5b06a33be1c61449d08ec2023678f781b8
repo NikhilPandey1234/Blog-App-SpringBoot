@@ -1,0 +1,18 @@
+
+¡
+java:S1192W"^Define a constant instead of duplicating this literal "Post not found with this id :" 3 times.(ªƒ˜ö8ÖÍë®î1J$68ab307a-f101-4c30-8805-b95b3cd008fd
+¤
+java:S1488°"`Immediately return this expression instead of assigning it to the temporary variable "postDTOS".(»è½8ÚÍë®î1J$d1a113d1-564c-4695-b3bf-11ca5bf6b169
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜«ñ¶8ÜÍë®î1J$015542d6-1b3b-423e-802c-5d2f336198a2
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÍë®î1J$081b5244-7aad-4f53-a518-34aa2f417c74
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÍë®î1J$62f397df-88dd-4d8d-8997-9558c6247157
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÍë®î1J$a076373a-4ca2-41ad-b1f3-99700609aa0d
+…
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÍë®î1J$94b46560-2d6e-46e9-9a42-313153702c5c
+…
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğÍë®î1J$f1fcacb4-83f9-4c42-88e3-8c5f21e3c918
+~	java:S125<"<This block of commented-out lines of code should be removed.(ÿ Ôã8éªğÜî1J$7b01f395-9719-4a7c-ad64-e23ed939b836
+~	java:S125a"<This block of commented-out lines of code should be removed.(ç‚åî8úÍë®î1J$4fc0ebc6-842d-4b17-aed8-7dc76a8fb267

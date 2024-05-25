@@ -1,0 +1,19 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±èá€8ªÎçÀì1J$0b627203-c212-4dda-a9b8-ea337d2174d7
+ƒ
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8ó­èÀì1J$fa38c936-f7f4-424b-9464-5a87320869d9
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ó­èÀì1J$7efb42da-87ff-4b98-ad0f-94eadc44ff4c
+‹
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8ó­èÀì1J$8d5903f7-e269-418a-8d1f-a3ca64e5c6eb
+¦
+java:S1128
+"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ğş–şÿÿÿÿ8ó­èÀì1J$44dbd910-16a2-435d-a86a-a25ddb32f10f
+Ä
+java:S1128"€Remove this unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'.(£ØÓ‰8ó­èÀì1J$e4a0de05-5f5e-4367-ab67-3ffc5981cdb9
+
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8ó­èÀì1J$66633f60-e7aa-482c-a2d6-d003c72eea8e
+¥
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8ó­èÀì1J$60501f17-f40d-41d2-8b5c-d4f591082f39
+¡
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8ó­èÀì1J$41ce8ffa-6752-4a27-8d5e-43d44fe15022

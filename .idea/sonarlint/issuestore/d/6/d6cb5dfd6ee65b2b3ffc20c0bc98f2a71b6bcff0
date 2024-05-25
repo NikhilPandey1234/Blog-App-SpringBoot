@@ -1,0 +1,21 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜«ñ¶8™é›­î1J$0db696ff-9133-41aa-8ab1-e62ee87fd09f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8›é›­î1J$fe2aa69a-a6f3-4468-9cd8-3bae32dc550f
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(ı¾Íøÿÿÿÿ8Òğ­î1J$fa5c03eb-a4a3-48f3-be5e-98d49cc16702
+^
+java:S1128"<Remove this unused import 'jakarta.mail.MessagingException'.(´öáùıÿÿÿÿ8‰ì»Õî1
+[
+java:S1128">Remove this unused import 'jakarta.mail.internet.MimeMessage'.(š‹ÔÕ8‰ì»Õî1
+g
+java:S1128	"KRemove this unused import 'org.springframework.core.io.FileSystemResource'.(°ü‘48‰ì»Õî1
+r
+java:S1128"PRemove this unused import 'org.springframework.mail.javamail.MimeMessageHelper'.(Ö€”÷øÿÿÿÿ8‰ì»Õî1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Šì»Õî1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8Šì»Õî1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8Šì»Õî1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8Šì»Õî1

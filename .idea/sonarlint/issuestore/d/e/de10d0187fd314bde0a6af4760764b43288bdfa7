@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¥¦øÿÿÿÿ8Ã‡¹«î1J$763c39e6-ee50-46c4-b55a-e648a8fe5c51
+]	java:S125*"<This block of commented-out lines of code should be removed.(ÉÆÌıÿÿÿÿ8šğ€¯î1
+Z
+java:S1128"8Remove this unused import 'com.bloggApp.modal.Follower'.(ÚŠÚÿÿÿÿÿ8›ğ€¯î1
+
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§Ï8†©Ä®î1J$3896b79e-091d-4391-86eb-8f5abe79b038
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›ğ€¯î1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8›ğ€¯î1

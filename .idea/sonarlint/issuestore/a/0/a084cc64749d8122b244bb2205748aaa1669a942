@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÂÚô8€„İìê1J$f6bf898c-57ba-47dc-87a8-e8d4824c0477
+’
+java:S1128"ORemove this unused import 'org.springframework.security.core.GrantedAuthority'.(½Á±ÿ8±“®î1J$aaa03fd2-15fe-4d23-bc16-699a126baf79
+§
+java:S1128"_Remove this unused import 'org.springframework.security.core.authority.SimpleGrantedAuthority'.(– ‹Ìûÿÿÿÿ8±“®î1J$85d3cdff-7e7c-4433-8f55-3983477b2cbe
+™
+java:S1128	"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8±“®î1J$04ad7932-4d5f-4f2d-85c9-b4155c0459a8
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8±“®î1J$4bccdc00-c906-4dbf-89b0-3901df7d2acd

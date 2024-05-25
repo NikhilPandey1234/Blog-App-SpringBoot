@@ -1,0 +1,9 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÚç®ùÿÿÿÿ8ê´ê÷é1J$762b2dc8-456f-4f27-a91f-0fd0a93349a1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÓÈº8ë´ê÷é1J$49c61465-f61a-4b32-b5cd-4155d12cf0e3
+|
+java:S1128"9Remove this unused import 'com.bloggApp.dto.CategoryDTO'.(¢ŸÛç8î´ê÷é1J$8a5c1cef-8fcb-461a-8ee7-f9113ce20f55
+x
+java:S1128"5Remove this unused import 'com.bloggApp.dto.UserDTO'.(©ş‹8î´ê÷é1J$9b2226b0-a486-4edc-98d3-3afaf1f81a3d
+‰
+java:S1128"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ8ç²ô÷é1J$40360924-67bf-44cc-bf82-413ffe186dd0

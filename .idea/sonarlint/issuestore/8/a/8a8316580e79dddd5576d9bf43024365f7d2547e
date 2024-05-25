@@ -1,0 +1,30 @@
+
+­
+java:S1488V"eImmediately return this expression instead of assigning it to the temporary variable "updateUserDTO".(­Ø÷Öûÿÿÿÿ8Ÿşäì1J$12d1bf50-4db3-4292-8819-0e041c96be45
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜«ñ¶8 Ÿşäì1J$27f7e6bc-2f6a-4a21-83f5-4c6776dcec78
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$7762ad1e-9071-4b64-821a-0ee5191eb565
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$8f8d08f6-9d65-4804-a6ab-7f18d41ffc1f
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$e4bcc7ac-fcdc-45be-8f7b-38257cb75575
+…
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$a0e713a8-8a4a-4788-86c2-1d95e4e83e20
+…
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$94831c63-4e4b-4e4b-8818-8d7c2edb72ee
+…
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$0d5c67a9-03f6-45f2-85a8-cd8089e15b8c
+…
+java:S6813:"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªŸşäì1J$65f6fe54-b6d2-4988-82e2-14e36e2f20f9
+•
+java:S6204_"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8±Ÿşäì1J$b22f391c-7a00-400f-ae0c-82d4a4941016
+ƒ	java:S125r"<This block of commented-out lines of code should be removed.(”šÔìúÿÿÿÿ8—÷Çàî1J$2d9c9f9a-04e6-4f57-8e00-d78c85031b56
+n	java:S106"+Replace this use of System.out by a logger.(šëŠı8µŸşäì1J$c93627fc-863a-4099-a360-d6acdffc6e3e
+|
+java:S1128"4Remove this unused import 'com.bloggApp.modal.Role'.(çœ»¤ÿÿÿÿÿ8æ§Èàî1J$624d1dc8-cd83-4500-8e87-28b861aacf6d
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8æ§Èàî1J$ad48fc7a-66b1-4bb4-a752-5530e9289274
+w
+java:S1128"/Remove this unused import 'java.beans.Encoder'.(ÿ¼õ‹ûÿÿÿÿ8æ§Èàî1J$bb8869c4-68d1-47d0-893b-fdc73991f72f
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8æ§Èàî1J$ffaa41b6-7729-4e3a-a48b-38a54530fe34
